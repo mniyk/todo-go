@@ -1,2 +1,2 @@
 # todo-go
-ToDo with TypeScript
+ToDo with Go 
